@@ -9,3 +9,5 @@ Sahrial Ihsani Ishak
   b. List Daerah
 3. Menu Detail Baca Cerita
 4. Menu Request Cerita
+# Teknologi
+1. Firebase
