@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253376774442",
+    "firebase_url": "https://crbfirebase.firebaseio.com",
+    "project_id": "crbfirebase",
+    "storage_bucket": "crbfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253376774442:android:48d193d4e215c8176c1e53",
+        "android_client_info": {
+          "package_name": "com.sahrial.ceritarakyatbengkulu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253376774442-0im3ooc86ft7s4jvad88b3mp55f7dve4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahrial.ceritarakyatbengkulu",
+            "certificate_hash": "5da37e3ebcd90f6d7e413a0f394b5204db87ccef"
+          }
+        },
+        {
+          "client_id": "253376774442-ui7ob4l9kdqa68p09m5vm8r0bq82ud1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZGzQB8-yMKwdUh4gjeUeYZQ84N0osD18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253376774442-ui7ob4l9kdqa68p09m5vm8r0bq82ud1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

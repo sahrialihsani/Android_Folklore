@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hikayat Bengkulu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_dev">Developer</string>
+    <string name="title_home">Home</string>
+    <string name="title_upl">Request</string>
+    <string name="title_activity_halaman_utama">HalamanUtamaActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
